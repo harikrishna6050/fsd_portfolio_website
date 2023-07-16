@@ -1,0 +1,16 @@
+/* <style> */
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap'); */
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+/* </style> */
+
+*{
+    font-family: 'poppins';
+}
+
+.links-div{
+    margin-right: 10%;
+}
+
+.my-name{
+    margin-left: 73px;
+}

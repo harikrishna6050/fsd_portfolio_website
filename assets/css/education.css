@@ -1,0 +1,19 @@
+ul > li {
+    margin-right: 20px;
+}
+
+.education-postion{
+    border-bottom: 5px solid rgb(64, 112, 244);
+}
+
+.education-div-container{
+    margin-top: 20px;
+}
+
+.marks-p {
+    border: 1px solid rgb(64, 112, 244);
+    background-color: rgb(64, 112, 244);
+    color: white;
+    border-radius: 25px;
+    padding: 5px;
+}
